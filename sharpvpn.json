@@ -1,0 +1,12 @@
+{
+  "server":"159.203.238.143",
+  "port":50010,
+  "tunnel_ip":"10.7.0.2",
+  "tunnel_name":"tun0",
+  "tunnel_mtu":1400,
+  "download_speed":80,
+  "upload_speed":4,
+  "password":"my_password",
+  "mode":"client",
+  "chnroute":"/etc/chnroute.txt"
+}
